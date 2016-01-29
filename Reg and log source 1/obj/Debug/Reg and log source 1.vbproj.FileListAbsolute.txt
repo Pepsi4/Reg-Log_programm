@@ -1,0 +1,12 @@
+C:\Users\Кирилл\documents\visual studio 2015\Projects\Reg and log source 1\Reg and log source 1\bin\Debug\Reg and log source 1.exe
+C:\Users\Кирилл\documents\visual studio 2015\Projects\Reg and log source 1\Reg and log source 1\bin\Debug\Reg and log source 1.pdb
+C:\Users\Кирилл\documents\visual studio 2015\Projects\Reg and log source 1\Reg and log source 1\bin\Debug\Reg and log source 1.xml
+C:\Users\Кирилл\documents\visual studio 2015\Projects\Reg and log source 1\Reg and log source 1\obj\Debug\Reg and log source 1.vbprojResolveAssemblyReference.cache
+C:\Users\Кирилл\documents\visual studio 2015\Projects\Reg and log source 1\Reg and log source 1\obj\Debug\Reg_and_log_source_1.Resources.resources
+C:\Users\Кирилл\documents\visual studio 2015\Projects\Reg and log source 1\Reg and log source 1\obj\Debug\Reg and log source 1.vbproj.GenerateResource.Cache
+C:\Users\Кирилл\documents\visual studio 2015\Projects\Reg and log source 1\Reg and log source 1\obj\Debug\Reg and log source 1.exe
+C:\Users\Кирилл\documents\visual studio 2015\Projects\Reg and log source 1\Reg and log source 1\obj\Debug\Reg and log source 1.xml
+C:\Users\Кирилл\documents\visual studio 2015\Projects\Reg and log source 1\Reg and log source 1\obj\Debug\Reg and log source 1.pdb
+C:\Users\Кирилл\documents\visual studio 2015\Projects\Reg and log source 1\Reg and log source 1\obj\Debug\Reg_and_log_source_1.Login.resources
+C:\Users\Кирилл\documents\visual studio 2015\Projects\Reg and log source 1\Reg and log source 1\bin\Debug\MySql.Data.dll
+C:\Users\Кирилл\documents\visual studio 2015\Projects\Reg and log source 1\Reg and log source 1\obj\Debug\Reg_and_log_source_1.Sign_up.resources
