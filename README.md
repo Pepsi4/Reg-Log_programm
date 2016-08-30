@@ -1,4 +1,3 @@
-# Reg-Log_programm
-Коннект к бд, регистрация и возможность залогиниться
-+Проверка на символы.(Юзать eng раскладку) (vb.net)
-Немного не опенсорс
+# Reg-Log Programm
+**Programm info:**
+      Here is a simple realisation of the work c# with MySql technology.
